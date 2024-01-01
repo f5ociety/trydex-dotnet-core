@@ -1,0 +1,11 @@
+{
+    "dotnet.defaultSolution": "trydex.sln",
+    // Set the default
+    "editor.formatOnSave": false,
+    // Enable per-language
+    "[csharp]": {
+        "editor.formatOnSave": true
+    }
+    
+}
+
